@@ -1,9 +1,11 @@
 #   Front-end para consumir API GO
 
-### instalando dependencias e rodando projeto: 
-`
-$   npm install
-$   npm start
+### instalando e atualizando dependencias: 
 
-`
+`$   npm install`
+
+`$   npm update`
+
+###  rodando projeto:
+`$   npm start `
 
